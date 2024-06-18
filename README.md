@@ -1,3 +1,4 @@
-# Welcome to my Personal Site
+# Welcome to my Portfolio Site's Repository
 
-[Live Link]('www.kyleginzburg.com') was made with some help from HTML5 UP! 
+My [Portfolio Site](https://www.kyleginzburg.com) was made with some help from HTML5 UP.
+Thanks for your time and consideration! 
